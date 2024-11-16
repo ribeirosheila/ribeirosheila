@@ -22,5 +22,3 @@ My goal is to learn and develop my skills in different programming languages, ad
     <img src="https://github.com/ribeirosheila/ribeirosheila/blob/1e586683fe87cd8685b333edfbf738bb4d5b7e28/labview.svg" alt="LabVIEW Logo" width="40px">
     <img src="https://github.com/ribeirosheila/ribeirosheila/blob/main/dotnet.svg" alt=".NET Logo" width="40px">
 </div>
-
-##Soft Skills
