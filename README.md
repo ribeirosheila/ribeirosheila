@@ -1,10 +1,9 @@
 - 👋 Hi, I’m Sheila Ribeiro
 - 👀 I’m interested in always learning new things
-- 🌱 I’m currently learning about .NET
+- 🌱 I’m currently learning about .NET and your languages
 - 💞️ I’m looking to collaborate on projects involving C#
 - 📫 Contact us through LinkedIn https://www.linkedin.com/in/sheila-ribeiro-tec/
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I worked with LabView for two years
 
 ## My goal
 
