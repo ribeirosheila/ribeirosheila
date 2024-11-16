@@ -14,3 +14,9 @@ My goal is to learn and develop my skills in different programming languages, ad
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
 
+<!-- Redimensionando a imagem usando HTML -->
+<img src="https://github.com/ribeirosheila/ribeirosheila/blob/main/dotnet.svg" alt=".NET Logo" width="40px">
+
+
+
+
