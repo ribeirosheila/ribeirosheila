@@ -1,4 +1,4 @@
-## Welcome!
+# Welcome!
 - 👋 Hi, I’m Sheila Ribeiro
 - 👀 I’m interested in always learning new things
 - 🌱 I’m currently learning about .NET and your languages
