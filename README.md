@@ -2,7 +2,7 @@
 - 👋 Hi, I’m Sheila Ribeiro
 - 👀 I’m interested in always learning new things
 - 🌱 I’m currently learning about .NET and your languages
-- 😄 Pronouns: she/her
+- 👩‍💻 My greatest experience is with programming in LabView
 
 
 ## Education
