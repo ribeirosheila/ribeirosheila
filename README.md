@@ -1,8 +1,15 @@
-# Welcome!
+# Hello and Welcome! 😁
+## About Me
 - 👋 Hi, I’m Sheila Ribeiro
 - 👀 I’m interested in always learning new things
 - 🌱 I’m currently learning about .NET and your languages
 - 👩‍💻 My greatest experience is with programming in LabView
+
+I hold a degree as a Technician in Electronics, with hands-on experience gained during my internship at AmBev, where I had the opportunity to apply the knowledge I acquired during my studies. After completing my education, I joined an automation engineering company, where I worked as a Technician and Application Analyst for two and a half years. During this time, I was involved in challenging automation projects, using tools like LabVIEW to develop codes that automated industrial systems.
+
+Among the highlights of my professional journey, I can mention the automation of the Smart Grids laboratory at the Eletrobrás Research Center, as well as the development of a neural network for an ethanol plant, where I used Python and LabVIEW to predict outcomes before the completion of the processes, providing valuable and early insights.
+
+Currently, I am looking to expand my knowledge in other programming languages and seeking an opportunity as a developer, where I can apply my experience, learn new technologies, and contribute to creating innovative solutions.
 
 
 ## Education
