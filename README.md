@@ -11,7 +11,7 @@ Among the highlights of my professional journey, I can mention the automation of
 
 Currently, I am looking to expand my knowledge in other programming languages and seeking an opportunity as a developer, where I can apply my experience, learn new technologies, and contribute to creating innovative solutions.
 
-![Snake animation](https://github.com/ribeirosheila/ribeirosheila/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/ribeirosheila/ribeirosheila/blob/output/github-contribution-grid-snake.svg)
 
 [![readme](https://github-readme-stats.vercel.app/api/pin/?username=ribeirosheila&repo=ribeirosheila&theme=react)](https://github.com/ribeirosheila/ribeirosheila)
 
