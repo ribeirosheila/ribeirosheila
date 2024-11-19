@@ -14,8 +14,8 @@ Currently, I am looking to expand my knowledge in other programming languages an
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ribeirosheila&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=ocean_dark&locale=en&hide_border=false&order=1&token=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" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ribeirosheila&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=ocean_dark&hide_border=false&order=2&token=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" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ribeirosheila&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=ocean_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ribeirosheila&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=ocean_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ribeirosheila&radius=16&theme=elegant&area=true&order=5&hide_border=false&hide_title=false" height="300" alt="activity-graph graph"  />
 </div>
 
